@@ -41,7 +41,7 @@
                   <div class="img">
                     <a href="/jiangjia/item/id/76278.html" target="_blank">
                       <img
-                        src="/static/fefda4f094f11d31.jpg"
+                        src="~@/assets/images/fefda4f094f11d31.jpg"
                         data-bimg="http://m.360buyimg.com/n1/jfs/t1/11043/40/7641/411710/5c62640cEd6614ee2/fefda4f094f11d31.jpg"
                         alt="361° 361度童鞋 女童跑鞋小童鞋 2019年春季新品网面印花休闲跑步鞋 碳黑/荧光贝玲粉 30+凑单品,降价幅度21.6%"
                         class="J_lazy lazy"

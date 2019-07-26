@@ -28,7 +28,7 @@
 </template>
 <script>
 export default {
-    
+
 }
 </script>
 <style lang="css" scoped>
@@ -67,4 +67,6 @@ export default {
 #toolbar .bar-con .right-show .personal-show a:hover{ text-decoration:none;}
 #toolbar .bar-con .right-show .personal-show a:hover span{ text-decoration:underline;}
 #toolbar .bar-con .right-show .logined-show img{ vertical-align:-5px; margin-right:5px;}
+.icon-phone{ background:url(../assets/images/icon-phone.gif) no-repeat;height:35px; width:12px; float:left;}
+.icon-normal{background-position:0 0;display:inline-block; vertical-align:-3px; margin-right:3px;}
 </style>

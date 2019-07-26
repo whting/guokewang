@@ -85,27 +85,27 @@
           <dl>
             <dd>
               <a href="/history/" target="_blank" class="right" title="右一">
-                <img src="/static/549f927773c84.jpg" alt />
+                <img src="~@/assets/images/549f927773c84.jpg" alt />
               </a>
             </dd>
             <dd>
               <a href="/index/cate/cid/2.html" target="_blank" class="right" title="右二">
-                <img src="/static/549f9289deb32.jpg" alt />
+                <img src="~@/assets/images/549f9289deb32.jpg" alt />
               </a>
             </dd>
             <dd>
               <a href="/jiangjia/" target="_blank" class="right" title="右三">
-                <img src="/static/549f929a550f2.jpg" alt />
+                <img src="~@/assets/images/549f929a550f2.jpg" alt />
               </a>
             </dd>
             <dd>
               <a href="/index/cate/cid/3.html" target="_blank" class="right" title="右四">
-                <img src="/static/549f92b11aa33.jpg" alt />
+                <img src="~@/assets/images/549f92b11aa33.jpg" alt />
               </a>
             </dd>
             <dd class="last">
               <a href="/jiu/" target="_blank" class="right" title="新版轮播右下长方形广告位">
-                <img src="/static/5684d22ced9f5.jpg" alt />
+                <img src="~@/assets/images/5684d22ced9f5.jpg" alt />
               </a>
             </dd>
           </dl>

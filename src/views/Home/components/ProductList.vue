@@ -7,7 +7,7 @@
             <a href="/item/index/id/274940.html" class="pic-img" target="_blank">
               <img
                 alt="抹胸内衣中年妈妈上托收副乳文胸加大码透气防走光中老年胸罩聚拢"
-                src="/static/fefda4f094f11d31.jpg"
+                src="~@/assets/images/fefda4f094f11d31.jpg"
                 class="J_lazy lazy good-pic"
                 d-src="http://img.alicdn.com/imgextra/i1/92608566/O1CN014ok0Kx2D9HEZJz527_!!92608566.jpg_310x310.jpg"
                 data-bimg="http://img.alicdn.com/imgextra/i1/92608566/O1CN014ok0Kx2D9HEZJz527_!!92608566.jpg"

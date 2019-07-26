@@ -5,7 +5,7 @@
           <div class="con-box-n clear">
             <div class="app-side-box fl">
               <p class="app-show">
-                <img src="/static/592c26206f909.jpg" />
+                <img src="~@/assets/images/592c26206f909.jpg" />
               </p>
               <p class="app-txt">扫描二维码打开</p>
             </div>
@@ -44,7 +44,7 @@
 </template>
 <script>
 export default {
-    
+
 }
 </script>
 <style scoped>

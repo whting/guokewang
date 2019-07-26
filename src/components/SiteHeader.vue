@@ -4,7 +4,7 @@
         <div class="logo logo1">
           <div class="fl">
             <a class="juan-logo fl" href="/" title="过客网">
-              <img src="/static/5b61b3865d289.png" />
+              <img src="~@/assets/images/5b61b3865d289.png" />
             </a>
           </div>
         </div>
@@ -42,7 +42,7 @@
             </li>
             <li>
               <em class="icon-fanli">
-                <img src="/static/hot.gif" />
+                <img src="~@/assets/images/hot.gif" />
               </em>
               <a href="/history/">历史价格查询</a>
             </li>
@@ -99,7 +99,7 @@
 </template>
 <script>
 export default {
-    
+
 }
 </script>
 <style scoped>

@@ -75,7 +75,7 @@
             <div class="tab-tips" v-show="tipsVisible.qrcode">
               <div class="code-box">
                 <p class="code">
-                  <img src="/static/592c26206f909.jpg" width="90px" />
+                  <img src="~@/assets/images/592c26206f909.jpg" width="90px" />
                 </p>
                 <p class="txt">扫描下载二维码</p>
               </div>
@@ -196,7 +196,7 @@ background:#444;
     height: 36px;
     line-height: 36px;
     position: absolute;
-    right: 62px;
+    right: 36px;
     text-align: center;
     top: 0;
     width: 90px;
@@ -255,7 +255,7 @@ background:#444;
 
 
 .slide-left-enter-active, .slide-left-leave-active {
-  transition: all .5s ease;
+  transition: all .4s ease;
 }
 
 .slide-left-enter-to {
@@ -263,6 +263,6 @@ background:#444;
 }
 .slide-left-leave-to, .slide-left-enter {
   opacity: 0;
-  right: 62px;
+  transform: translateX(-26px);
 }
 </style>
