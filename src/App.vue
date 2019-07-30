@@ -108,5 +108,6 @@ export default {
     width: 100%;
     outline: 0;
     -webkit-appearance: none;
+    text-align: center;
   }
     </style>

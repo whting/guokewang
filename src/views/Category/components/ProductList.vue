@@ -1,7 +1,7 @@
 <template>
   <div class="main pr mt25 clear">
     <ul class="goods-list clear">
-      <li v-for="item in $store.state.home.itemList" :key="item.itemId" class gtype="1" id="274940">
+      <li v-for="item in $store.state.category.itemList" :key="item.itemId" class gtype="1" id="274940">
         <div class="list-good buy">
           <div class="good-pic">
             <a href="/test" class="pic-img" target="_blank">
@@ -76,7 +76,7 @@ export default {
     Page
   },
   created(){
-    this.$store.dispatch('queryHomeProduct',1)
+    this.$store.dispatch('queryCategoryProduct',1)
   }
 };
 </script>

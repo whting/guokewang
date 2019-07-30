@@ -14,70 +14,73 @@
         <div class="banner_l">
           <dl>
             <dd>
-              <a href="/index/cate/cid/1.html">
+              <router-link to="/category/女装">
                 <i class="ct-icon ct-icon-nvzhuang"></i>女装
                 <em class="ct-line"></em>
-              </a>
+              </router-link>
             </dd>
             <dd>
-              <a href="/index/cate/cid/2.html">
-                <i class="ct-icon ct-icon-nanzhuang"></i>男装
-              </a>
-            </dd>
-            <dd>
-              <a href="/index/cate/cid/3.html">
-                <i class="ct-icon ct-icon-xiezi"></i>鞋包
+              <router-link to="/category/鞋包配饰">
+                <i class="ct-icon ct-icon-xiezi"></i>鞋包配饰
                 <em class="ct-line"></em>
-              </a>
+              </router-link>
             </dd>
             <dd>
-              <a href="/index/cate/cid/10.html">
+               <router-link to="/category/男装">
+                <i class="ct-icon ct-icon-nanzhuang"></i>男装
+              </router-link>
+            </dd>
+
+            <dd>
+              <router-link to="/category/数码家电">
                 <i class="ct-icon ct-icon-shuma"></i>数码家电
-              </a>
+              </router-link>
             </dd>
             <dd>
-              <a href="/index/cate/cid/12.html">
+              <router-link to="/category/母婴">
+                <i class="ct-icon ct-icon-muying"></i>母婴
+              </router-link>
+            </dd>
+            <dd>
+              <router-link to="/category/家居家装">
                 <i class="ct-icon ct-icon-jiafang"></i>家居家装
                 <em class="ct-line"></em>
-              </a>
+              </router-link>
             </dd>
             <dd>
-              <a href="/index/cate/cid/7.html">
-                <i class="ct-icon ct-icon-muying"></i>母婴
-              </a>
-            </dd>
-            <dd>
-              <a href="/index/cate/cid/6.html">
-                <i class="ct-icon ct-icon-meizhuang"></i>美妆
-                <em class="ct-line"></em>
-              </a>
-            </dd>
-            <dd>
-              <a href="/index/cate/cid/4.html">
-                <i class="ct-icon ct-icon-peishi"></i>珠宝饰配
-              </a>
-            </dd>
-            <dd>
-              <a href="/index/cate/cid/5.html">
-                <i class="ct-icon ct-icon-jujia"></i>运动户外
-                <em class="ct-line"></em>
-              </a>
-            </dd>
-            <dd>
-              <a href="/index/cate/cid/8.html">
+              <router-link to="/category/美食">
                 <i class="ct-icon ct-icon-meishi"></i>美食
-              </a>
+              </router-link>
             </dd>
+
             <dd>
-              <a href="/index/cate/cid/9.html">
+              <router-link to="/category/美妆个护">
+                <i class="ct-icon ct-icon-meizhuang"></i>美妆个护
+                <em class="ct-line"></em>
+              </router-link>
+            </dd>
+            <!-- <dd>
+              <router-link to="/category/珠宝饰配">
+                <i class="ct-icon ct-icon-peishi"></i>珠宝饰配
+              </router-link>
+            </dd> -->
+            <dd>
+              <router-link to="/category/内衣">
                 <i class="ct-icon ct-icon-neiyi"></i>内衣
                 <em class="ct-line"></em>
-              </a>
+              </router-link>
             </dd>
             <dd>
-              <a href="/index/cate/cid/15.html">
-                <i class="ct-icon ct-icon-xiangbao"></i>其他
-              </a>
+              <router-link to="/category/运动户外">
+                <i class="ct-icon ct-icon-jujia"></i>运动户外
+                <em class="ct-line"></em>
+              </router-link>
+            </dd>
+
+            <dd>
+              <router-link to="/category/综合">
+                <i class="ct-icon ct-icon-xiangbao"></i>综合
+              </router-link>
             </dd>
           </dl>
         </div>

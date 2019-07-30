@@ -4,9 +4,9 @@
     <banner />
     <div class="main w1200">
       <!-- 首页品牌列表 -->
-      <brand-list />
+      <!-- <brand-list /> -->
       <!-- 产品刷新提示 -->
-      <product-tips-bar />
+      <!-- <product-tips-bar /> -->
       <!-- 产品列表 -->
       <product-list />
       <!--文章系统-->
@@ -46,6 +46,7 @@ export default {
   mounted() {
   },
   methods: {
+
   }
 };
 </script>
